@@ -1,1 +1,2 @@
-alert("skibidi toilet momento");
+let header = document.getElementById("1");
+header.innerText = "gyat";
